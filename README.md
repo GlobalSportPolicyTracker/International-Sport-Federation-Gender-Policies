@@ -22,3 +22,9 @@ This data is **NOT** meant to be used or considered as a statement on whether or
 This dataset will expand as we add more International Sport Federations, and also the regulations of large international multisport organisation (i.e., IOC, Commonwealth Games Federation, etc) 
 
 For any questions on this data, or if you would like to sumit data to be considered in the tracker, please contact info@sportpolicytracker.com 
+
+# To Download the Dataset #
+
+To download the dataset, under the [current_dataset](current_dataset) section, right click on the 'raw' tab, and then select "Download Linked File" as the image below shows. The xlsx file will automatically download to your device. 
+
+<img width="1034" height="408" alt="Screenshot 2025-11-21 at 09 49 53" src="https://github.com/user-attachments/assets/a11030ab-d22b-44fc-966b-9449d81cf79d" />
